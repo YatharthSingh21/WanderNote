@@ -1,7 +1,7 @@
 import NavBar from "../Components/Navbar";
 import RateLimitedUI from "../Components/RateLimitedUI";
 import NoteCard from "../Components/NoteCard";
-import NotesNotFound from "../components/NotesNotFound.jsx";
+import NotesNotFound from "../Components/NotesNotFound.jsx";
 import {useState, useEffect} from "react";
 import toast from "react-hot-toast";
 import axios from "axios";
